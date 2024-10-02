@@ -1,0 +1,7 @@
+まずvirtualboxのバージョンを下げる
+1. sudo pacman -U /var/cache/pacman/pkg/virtualbox-7.0.20-1-x86_64.pkg.tar.zst
+次にhost-dkmsのバージョンを下げたvirtualbox本体のバージョンと合わせる
+2. sudo pacman -U /var/cache/pacman/pkg/virtualbox-host-dkms-7.0.20-1-x86_64.pkg.tar.zst
+再起動
+3. sudo reboot
+
