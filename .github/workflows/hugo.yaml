@@ -79,7 +79,7 @@ jobs:
             hugo-
       - name: Build the site
         run: |
-          cd page && hugo build \
+          git submodule init&&git submodule update && cd page &&hugo build \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
