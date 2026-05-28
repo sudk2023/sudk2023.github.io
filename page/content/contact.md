@@ -4,5 +4,5 @@
 
 ## Other 
 [hello@hello.pwn.moe](emailto:hello@hello.pwn.moe)  
-Or...you can osint my home address to touch me.  
+Or...you can osint my home address to contact me.  
 If you need to send me malware or phishing emails, please forward them to /dev/null. Thanks!
