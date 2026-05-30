@@ -4,4 +4,5 @@ draft = false
 title = ''
 +++
 [Articles](/page)   
+[English Note](/englishnote)   
 [Contact](/contact)
