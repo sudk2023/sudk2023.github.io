@@ -1,3 +1,8 @@
++++
+draft = false
+title = 'contact'
++++
+
 ## ActivityPub
 [mi2.pwn.moe/@cye](https://mi2.pwn.moe/@cye)  
 [misskey.io/@cye](https://misskey.io/@cye)  
