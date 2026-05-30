@@ -1,4 +1,8 @@
-## English note  
++++
+draft = false
+title = 'English note'
++++
+
 I have to turn into a cat right away.   
 The training cat is in my house.  
 My cat ate all my dinner without permission.  
